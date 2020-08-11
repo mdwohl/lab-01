@@ -1,0 +1,57 @@
+#a {
+  background-color: violet;
+}
+#b {
+  background-color: green;
+}
+#c {
+  background-color: yellowgreen;
+}
+#d {
+  background-color: purple;
+}
+#e {
+  background-color: red;
+}
+#f {
+  background-color: cyan;
+}
+#g {
+  background-color: coral;
+}
+#h {
+  background-color: wheat;
+}
+#i {
+  background-color: palegreen;
+}
+
+@media only screen and (min-width: 960px){
+  #a {
+    background-color: aqua;
+  }
+  #b {
+    background-color: blueviolet;
+  }
+  #c {
+    background-color: cadetblue;
+  }
+  #d {
+    background-color: cornflowerblue;
+  }
+  #e {
+    background-color: darkgreen;
+  }
+  #f {
+    background-color: darksalmon;
+  }
+  #g {
+    background-color: dodgerblue;
+  }
+  #h {
+    background-color: goldenrod;
+  }
+  #i {
+    background-color: hotpink;
+  }
+}
