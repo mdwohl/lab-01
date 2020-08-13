@@ -39,6 +39,9 @@
   #d {
     background-color: cornflowerblue;
   }
+  .squares {
+    flex-direction: row;
+  }
   #e {
     background-color: darkgreen;
   }

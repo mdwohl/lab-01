@@ -1,5 +1,9 @@
 div {
-  background-color: grey;
+  /* background-color: grey; */
   border: solid 1px black;
   box-sizing: border-box;
+}
+
+* {
+  text-align: center;
 }
